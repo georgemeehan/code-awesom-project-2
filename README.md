@@ -1,1 +1,1 @@
-# code-awesom-project-2
+# code-awesome-project
